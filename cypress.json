@@ -1,4 +1,7 @@
 {
     "baseUrl":"https://ramyakulkarni.wordpress.com/",
-    "chromeWebSecurity": false
+    "chromeWebSecurity": false,
+    "experimentalStudio": true
+
+    
 }

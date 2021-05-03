@@ -9,7 +9,8 @@
   },
   "author": "Ramya Kulkarni",
   "license": "ISC",
-  "dependencies": {
-    "cypress": "^6.2.1"
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.3.0"
   }
 }
